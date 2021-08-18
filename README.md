@@ -8,6 +8,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This template was used during a selective process.
 
+This layout was not created by me, I just recieve an image and build it.
+
 ## Available Scripts
 
 In the project directory, you can run:
